@@ -1,9 +1,9 @@
-🐾 VetClinicPro - A Comprehensive Veterinary Appointment System
+🐾 VetriSys - A Comprehensive Veterinary Appointment System
 
 ![GitHub language](https://img.shields.io/badge/language-C-blue)
 ![GitHub license](https://img.shields.io/github/license/kanwal-codes/VetriSys)
 
-Welcome to VetClinicPro, a streamlined system designed to manage patient information and appointments for veterinary clinics. Developed as part of my coursework at the School of Software Design and Data Science, this project showcases my journey in modular programming, data structures, and file handling in C.
+Welcome to VetriSys, a streamlined system designed to manage patient information and appointments for veterinary clinics. Developed as part of my coursework at the School of Software Design and Data Science, this project showcases my journey in modular programming, data structures, and file handling in C.
 
 📚 Table of Contents
 About the Project
@@ -27,10 +27,11 @@ Patient Data Management: Add, edit, search, and remove patient records effortles
 Appointment Scheduling: Schedule and manage appointments with conflict detection.
 Formatted Output Display: Consistent and clear presentation of patient data and appointment schedules.
 🔧 Technologies Used
-Language: C (C99 Standard)
-IDE: Visual Studio
+Language: C (C Standard)
+IDE: Visual Studio Code
 Version Control: Git & GitHub
 Libraries: Standard C Libraries (stdio.h, string.h)
+
 🚀 Getting Started
 Prerequisites:
 A C compiler like GCC.
@@ -40,8 +41,8 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/YourUsername/VetClinicPro.git
-cd VetClinicPro
+git clone https://github.com/YourUsername/VetriSys.git
+cd VetriSys
 Compile the project:
 bash
 Copy
@@ -72,6 +73,7 @@ Edit
 Patient #  Name     Phone
 -----------------------------------
 101        Buddy    (416)123-4567
+
 💡 Reflection
 This project allowed me to dive deep into modular programming, emphasizing the importance of reusable code through helper functions. One of the most rewarding challenges was handling string validation without relying on standard library functions, which taught me to think critically about memory management and data integrity.
 
