@@ -1,7 +1,6 @@
 🐾 VetriSys - A Comprehensive Veterinary Appointment System
 
 ![GitHub language](https://img.shields.io/badge/language-C-blue)
-![GitHub license](https://img.shields.io/github/license/kanwal-codes/VetriSys)
 
 Welcome to VetriSys, a streamlined system designed to manage patient information and appointments for veterinary clinics. Developed as part of my coursework at the School of Software Design and Data Science, this project showcases my journey in modular programming, data structures, and file handling in C.
 
