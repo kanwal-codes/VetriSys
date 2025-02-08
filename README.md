@@ -40,7 +40,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/YourUsername/VetriSys.git
+git clone https://github.com/kanwal-codes/VetriSys.git
 cd VetriSys
 Compile the project:
 bash
